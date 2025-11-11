@@ -1,3 +1,11 @@
 .p {
     height: 100;
 }
+
+.ss {
+    font-size: 120px;
+}
+
+*{
+    color: chartreuse;
+}
